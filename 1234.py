@@ -13,3 +13,5 @@ while i<int(limit):
     spam.press('enter')
 
     i+=1
+
+edited
